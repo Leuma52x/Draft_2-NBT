@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  font-family:helvetica;
+  background-image: url('bck.jpg');
+  background-size: cover;
+  background-attachment: fixed;}
+h1 {
+  text-align:right;
+  border:4px solid white;
+  color: white;}
+h2 {
+  color: white;}
+h3 {
+  color: white;}
+h4 {
+  color: lightgrey;}
+p {
+  color: lightgrey;
+  font-family:baskerville;}
+address {
+  color:grey}
